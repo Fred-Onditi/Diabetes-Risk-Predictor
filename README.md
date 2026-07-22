@@ -1,4 +1,4 @@
-#Diabetes Prediction App
+Diabetes Prediction App
 
 A machine learning-powered web application built with Streamlit that predicts the likelihood of diabetes based on patient health metrics. This app uses a trained classification model and provides detailed input guidelines to help users understand each health parameter.
 
